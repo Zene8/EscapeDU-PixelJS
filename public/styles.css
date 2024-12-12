@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    overflow: hidden; /* Prevent scrollbars */
+    background-color: #000; /* Optional: background color for your page */
+  }
+  
+  canvas {
+    display: block; /* Removes default inline space for the canvas */
+  }
+  
